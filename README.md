@@ -1,2 +1,4 @@
 # Prolog-Projects
-Some projects using prolog like dfs, trip recommendation etc
+### Semester - 2
+### Instructor - Dr. Vinayak Abrol
+Some projects using prolog like Dfs, Trip recommendation, etc
